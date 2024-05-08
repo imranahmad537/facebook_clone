@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: #f0f0f0;
+}
+.name{
+    font-style: bold;
+    font-size: 50px;
+    color: #0d43f6;
+   
+}
+.card{
+    border: 2px solid black;
+    border-radius: 20px;
+    box-shadow: 0 0 5px 3px #f0f0f0;
+    background-color: white;
+    padding: 20px;
+}
+.bg{
+    background-color: #4bec2b;
+}
